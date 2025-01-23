@@ -2673,12 +2673,8 @@ body{
 
     }
 
-    .ContactUsBloc1 .ContactUsBloc1RightPart .imgformleft{
-        display: none;
-    }
-    
     .ContactUsBloc1 .ContactUsBloc1RightPart .imgformright{
-        display: none;
+        right: 0;
     }
 }
 
